@@ -1,0 +1,1 @@
+{"name":"githubinsights","version":"1.0.0","description":"CLI que usa a API REST do GitHub para gerar um resumo de qualquer perfil","type":"module","main":"index.js","bin":{"githubinsights":"index.js"},"scripts":{"start":"node index.js","test":"node --test"},"engines":{"node":">=18"},"keywords":["github","github-api","cli"],"author":"Thiagosdep","license":"MIT"}
